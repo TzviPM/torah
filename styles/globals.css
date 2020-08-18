@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Cardo';
+  src: url('/fonts/subset-Cardo.woff2') format('woff2'),
+    url('/fonts/subset-Cardo.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cardo';
+  src: url('/fonts/subset-Cardo-Bold.woff2') format('woff2'),
+    url('/fonts/subset-Cardo-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cardo';
+  src: url('/fonts/subset-Cardo-Italic.woff2') format('woff2'),
+    url('/fonts/subset-Cardo-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'BenOr Rashi';
+  src: url('/fonts/BenOrRashi-Regular.woff2') format('woff2'),
+    url('/fonts/BenOrRashi-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}

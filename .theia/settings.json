@@ -1,0 +1,7 @@
+{
+  "prettier.configPath": ".prettierrc.json",
+  "prettier.packageManager": "yarn",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true
+}
